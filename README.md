@@ -93,7 +93,7 @@ AI-Assisted Security Research & Automation
 An intelligent academic matching and recommendation platform architected for the **Google AI Seek Builders Challenge (#BuildWithAI)**.
 - **Technologies:** Flutter, Google Gemini API, Firebase Cloud Functions, Dart.
 - **Key Architecture:** LLM-assisted multi-factor semantic reasoning, automated recommendation algorithms, and cross-platform responsive interface.
-- **Code:** [GitHub Profile / Repositories]([https://github.com/hasnainyasin900](https://github.com/hasnainyasin900/scholarmind-ai))
+- **Code:** [GitHub Profile / Repositories](https://github.com/hasnainyasin900/scholarmind-ai)
 
 ### 🌐 Interactive E-Learning & Digital Web Platform (FYP)
 An enterprise-grade Learning Management System (LMS) developed as my undergraduate **Final Year Project (FYP)** under the supervision of Prof. Muhammad Musa.
